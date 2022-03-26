@@ -19,7 +19,7 @@
 
 ## :mailbox: How to reach me :
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:bahadirduzcan@gmail.com)
-[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/bahax41/)
+[<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/bahadirduzcan/)
 [<img src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/bahadirduzcan)
 [<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/bahadirduzcan)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://instagram.com/bahadirduzcan)
