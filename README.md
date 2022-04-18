@@ -4,9 +4,9 @@
 <img align="right" height="290" src="https://raw.githubusercontent.com/bahadirduzcan/bahadirduzcan/main/baho.gif" />
 
 - 🔭 I’m currently working on **some of my side projects**
-- 💻 I'm a Student and Developer
+- 💻 I'm a Software Engineer
 - 🌱 I’m currently learning everything 🤣
-- :pencil2: C# / Php / Python / VS Code
+- :pencil2: C# / Php / Python / Flutter / Rest Api / Nodejs
 - 👯 I’m looking to collaborate with other content creators
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/bahadirduzcan/bahadirduzcan)
