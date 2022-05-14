@@ -30,7 +30,7 @@
 <p align="center">
   <br/>  <br/>
     <a href="https://bahadirduzcan.com.tr/" target="_blank">
-    <img width="100" src="https://bahadirduzcan.com.tr/assets/images/favicon.ico" alt="logo" />
+    <img width="100" src="https://i.imgur.com/TyFDhvs.png" alt="logo" />
   </a>  <br/>
   <small>Follow my website</small>
 </p>
