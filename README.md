@@ -53,7 +53,5 @@
 <div align="center">
   
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bahadirduzcan&theme=tokyonight)
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bahax41&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=bahax41&redirect=true)
 
 </div>
