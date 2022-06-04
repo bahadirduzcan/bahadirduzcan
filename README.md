@@ -21,7 +21,7 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:bahadirduzcan@gmail.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/bahadirduzcan/)
 [<img src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/bahadirduzcan)
-[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/bahadirduzcan)
+[<img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png"/>](https://twitter.com/bahadirduzcan)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://instagram.com/bahadirduzcan)
 [<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/bahax41)
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/wuTh3SmFN7)
