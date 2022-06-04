@@ -1,5 +1,5 @@
 
-# Hi, I'm Bahadır Düzcan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />
+# Hi, I'm Bahadır Düzcan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" />
 
 <img align="right" height="290" src="https://raw.githubusercontent.com/bahadirduzcan/bahadirduzcan/main/baho.gif" />
 
