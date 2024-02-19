@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **some of my side projects**
 - 💻 I'm a Software Engineer
 - 🌱 I’m currently learning everything 🤣
-- :pencil2: C# / Php / Python / Flutter / Rest Api / Nodejs / VueJs
+- :pencil2: C# / Python / Flutter / Rest Api / Nodejs / VueJs
 - 👯 I’m looking to collaborate with other content creators
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/bahadirduzcan/bahadirduzcan)
